@@ -1,0 +1,14 @@
+body{
+    max-width: 960px;
+    font-family: Arial, serif;
+    background: white;
+}
+header{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.images{
+    margin-left: 5rem;
+}

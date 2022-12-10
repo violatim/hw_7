@@ -1,0 +1,9 @@
+body{
+    max-width: 580px;
+    font-family: Arial, serif;
+    background: white;
+}
+header{
+    background-color: grey;
+    padding: 1rem;
+}
